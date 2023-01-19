@@ -1,0 +1,29 @@
+{% include base_path %}
+
+{% if page.member and site.data.members[page.member] %}
+  {% assign member = site.data.members[page.member] %}{% else %}{% assign member = site.member %}
+{% endif %}
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  <div class="member__avatar">
+    {% if member.avatar contains "://" %}
+    	<img src="{{ member.avatar }}" width="500" alt="{{ member.name }} - {{ member.role }}">
+    {% else %}
+    	<img src="{{ member.avatar | prepend: "/images/" | prepend: base_path }}" width="500" class="member__avatar" alt="{{ member.name }} - {{ member.role }}">
+    {% endif %}
+  </div>
+
+  <div class="member__content">
+    <h3 class="member__name">{{ member.name }}</h3>
+    {% if member.bio %}<p class="member__bio">{{ member.bio }}</p>{% endif %}
+  </div>
+
+  <div class="member__urls-wrapper">
+    <ul class="member__urls social-icons">
+      {% if member.email %}
+        <li><a href="mailto:{{ member.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ member.email | default: "Email" }}</a></li>
+      {% endif %}
+    </ul>
+  </div>
+</div>

@@ -4,3 +4,5 @@ Gemfile.lock
 images/*.pdf
 images/*.svg
 
+# Extra extensions
+.DS_Store

@@ -6,10 +6,12 @@ main:
   - title: "Publications"
     url: /publications/
   
+  - title: "Members"
+    url: /members/
 
+  - title: "Software"
+    url: /software/
 
-  #- title: "Talks"
-  #  url: /talks/    
-    
-  #- title: "CV"
-  #  url: /cv/
+  - title: "Positions"
+    url: /positions/
+

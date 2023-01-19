@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find our articles on <u><a href="{{site.author.googlescholar}}"> Peter Kirton's Google Scholar profile</a>.</u>
 
 
 {% include base_path %}
@@ -26,6 +26,6 @@ You can also find my articles on <u><a href="{{site.author.googlescholar}}">my G
   {% include archive-single.html %}
 {% endfor %}
 
-## Thesis
+## Theses
 
-My PhD thesis "Fluctuations and Noise in Nanomechanical and Nanoelectrical Devices" can be found <a href = "{{ 'THESIS_PK_FINAL.pdf' | prepend: "/files/" | prepend: base_path }}"><u>here</u></a>
+Peter Kirton:  "Fluctuations and Noise in Nanomechanical and Nanoelectrical Devices" can be found <a href = "{{ 'THESIS_PK_FINAL.pdf' | prepend: "/files/" | prepend: base_path }}"><u>here</u></a>
