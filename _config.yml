@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "OQS"
+title                    : "SOQS"
 title_separator          : "-"
-name                     : &name "Open Quantum Systems"
+name                     : &name "Strathclyde Open Quantum Systems"
 description              : &description "Research group of Peter Kirton at the Universitiy of Strathclyde"
 url                      : https://www.peterkirton.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "OQS"
+  name             : "SOQS"
   avatar           : "group-photo.jpg"
   bio              : "Research group of Peter Kirton at the Universitiy of Strathclyde"
   location         : "Glasgow, Scotland"

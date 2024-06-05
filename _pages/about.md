@@ -12,7 +12,7 @@ We are a theoretical research group in the field of open quantum systems, at the
 
 We are part of the <a href="http://cnqo.phys.strath.ac.uk/" target="_blank">Computational Nonlinear and Quantum Optics group (CNQO)</a> at the University of Strathclyde.
 
-<a class="twitter-timeline" data-width="550" href="https://twitter.com/PeterGKirton?ref_src=twsrc%5Etfw">Tweets by PeterGKirton</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+
 
 
 
