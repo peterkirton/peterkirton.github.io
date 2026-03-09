@@ -15,10 +15,26 @@ author_profile: true
   {% endif %}
 {% endfor %} 
 
+## Postdocs
+
+{% for member in site.members %}
+  {% if member.role == "Postdoc" %}
+    {% include archive-member.html %}
+  {% endif %}
+{% endfor %} 
+
 ## PhD Students
 
 {% for member in site.members %}
   {% if member.role == "PhD student" %}
+    {% include archive-member.html %}
+  {% endif %}
+{% endfor %} 
+
+## Former members
+
+{% for member in site.members %}
+  {% if member.role == "Former member" %}
     {% include archive-member.html %}
   {% endif %}
 {% endfor %} 

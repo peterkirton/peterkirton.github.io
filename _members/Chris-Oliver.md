@@ -1,0 +1,15 @@
+---
+name: "Chris Oliver"
+collection: members
+permalink: /members/Chris-Oliver
+role: "Postdoc"
+email: "christopher.oliver AT strath.ac.uk"
+avatar: "Chris-profile.png"
+bio: "Chris is a postdoc working on multimode cavity QED, disordered Boson systems and dissipative phase transitions. He is using techniques from open quantum systems generally, including non-Markovian methods, and varied numerical methods including neural network quantum states, DMRG, quantum Monte Carlo, all with Julia and Python. He previously spent two years as a Senior Analogue Quantum Applications Engineer at the National Quantum Computing Centre (NQCC), at Harwell in Oxfordshire, with a particular focus on neutral atom quantum computing. He completed his PhD in the group of Professor Hannah Price at the University of Birmingham in summer 2023. He worked on topological models in cold atom and photonic systems, particularly the quantum Hall effect. He has also spent time as a visiting scholar at the University of Trento, Italy, and at Stanford University, USA. Chris is very open to collaboration and is excited to broaden his view of the physics of open quantum systems, with a particular curiosity about quantum biology, the intersection of biology and physics in general, quantum error correction and quantum thermodynamics."
+---
+
+<div>
+
+Chris is a postdoc working on multimode cavity QED, disordered Boson systems and dissipative phase transitions. He is using techniques from open quantum systems generally, including non-Markovian methods, and varied numerical methods including neural network quantum states, DMRG, quantum Monte Carlo, all with Julia and Python. He previously spent two years as a Senior Analogue Quantum Applications Engineer at the <a href="https://www.nqcc.ac.uk/" target="_blank">National Quantum Computing Centre (NQCC)</a>, at Harwell in Oxfordshire, with a particular focus on neutral atom quantum computing. He completed his PhD in the group of <a href="https://hannahmprice.com/" target="_blank">Professor Hannah Price</a> at the University of Birmingham in summer 2023. He worked on topological models in cold atom and photonic systems, particularly the quantum Hall effect. He has also spent time as a visiting scholar at the University of Trento, Italy, and at Stanford University, USA. Chris is very open to collaboration and is excited to broaden his view of the physics of open quantum systems, with a particular curiosity about quantum biology, the intersection of biology and physics in general, quantum error correction and quantum thermodynamics.
+
+</div>
